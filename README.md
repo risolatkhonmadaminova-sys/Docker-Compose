@@ -29,5 +29,14 @@ lab5-compose/
 │ └── nginx.conf
 └── README.md
 
+<img width="968" height="169" alt="Screenshot 2026-03-11 at 15 17 51" src="https://github.com/user-attachments/assets/ec3e2d0e-563f-4502-b035-7db42af5364f" />
+
+
+
+
 <img width="968" height="87" alt="Screenshot 2026-03-11 at 15 16 50" src="https://github.com/user-attachments/assets/0438277d-4c25-47d1-9d51-45189c7814d6" />
+
+
+
+
 
