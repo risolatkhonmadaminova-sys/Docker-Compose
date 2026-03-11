@@ -29,9 +29,5 @@ lab5-compose/
 │ └── nginx.conf
 └── README.md
 
+<img width="968" height="87" alt="Screenshot 2026-03-11 at 15 16 50" src="https://github.com/user-attachments/assets/0438277d-4c25-47d1-9d51-45189c7814d6" />
 
-## Запуск проекта
-
-1. Сборка и запуск контейнеров:
-```bash
-docker compose up --build -d
